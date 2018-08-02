@@ -16,7 +16,7 @@ Note: it is recommended to install root access before all actions. This can be d
 
 Download the script:
 
-`wget -q https://raw.githubusercontent.com/wavicom/wavi_scripts/master/setup_wavi_mn_and_sentinel.sh`
+`wget -q https://raw.githubusercontent.com/wavicom/wavi_scripts_ubuntu18/master/setup_wavi_mn_and_sentinel.sh`
 
 ***Step 2:***
 
@@ -65,7 +65,7 @@ After complete synchronization of blocks and masternodes list run your local wal
 
 Download the script:
 
-`wget -q https://raw.githubusercontent.com/wavicom/wavi_scripts/master/setup_wavi_only_sentinel.sh`
+`wget -q https://raw.githubusercontent.com/wavicom/wavi_scripts_ubuntu18/master/setup_wavi_only_sentinel.sh`
 
 ***Step 2:***
 
