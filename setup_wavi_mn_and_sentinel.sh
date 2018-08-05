@@ -79,7 +79,7 @@ function get_key_update_config {
 
 	if [[ ! "$MNKEY" ]]; then
 		echo -e "$tyellow""We are generating a new private key:"
-		sleep 10 # just giving a chance to non-ssd VPS to catch-up, if we just started this for the first time
+		sleep 20 # just giving a chance to non-ssd VPS to catch-up, if we just started this for the first time
 		genkey=$(wavi/wavi-cli masternode genkey)
 	else
 		echo -e "$tyellow""We are using the provided key:"
