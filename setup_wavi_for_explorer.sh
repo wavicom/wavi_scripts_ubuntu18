@@ -41,7 +41,7 @@ function download_unpack_install {
 	mkdir wavi >/dev/null 2>&1
 	cd wavi >/dev/null 2>&1
 	wget https://github.com/wavicom/wavi/releases/download/v0.12.2.4reup/wavicore-0.12.2.4-ubuntu18.tar.gz >/dev/null 2>&1
-	tar -xvf wavicore-0.12.2.4-ubuntu18.tar.gz >/dev/null 2>&1 
+	tar -xvf wavicore-0.12.2.4-ubuntu18.tar.gz >/dev/null 2>&1
 	rm wavicore-0.12.2.4-ubuntu18.tar.gz >/dev/null 2>&1
 	cd >/dev/null 2>&1
 	echo -e "$tgreen""Complete"
