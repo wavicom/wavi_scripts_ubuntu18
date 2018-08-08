@@ -1,4 +1,4 @@
-## Scripts for automatically install WAVI Masternode and Sentinel for Ubuntu 18.04 LTS.
+## Scripts for automatically install WAVI Masternode and Sentinel for Ubuntu 18.04.
 
 These scripts are designed to facilitate the process of installing WAVI Masternode for Ubuntu 18.04. Be here:
 
